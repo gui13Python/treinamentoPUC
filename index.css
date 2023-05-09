@@ -1,0 +1,51 @@
+*{
+    margin:0% ;
+    padding: 1%;
+    text-decoration:none;
+    overflow-y: auto ;
+    overflow-x: hidden ;
+    background-color: blanchedalmond;
+   
+   
+}
+
+
+
+.enlace{
+    display: flex;
+    margin-right: 1px;
+    padding-left: 1px;
+    justify-content: center;
+    
+    
+    
+}
+
+
+.title{
+    display: flex;
+    justify-content: center ;
+    color: black;
+}
+
+
+footer{
+    background-color: rgb(245, 244, 243)  ;
+    width: 90%h;
+    margin-left: 10px;
+    margin-right: 0px;
+    padding: 1%;
+}
+
+
+.rodape {
+    display:flex;
+    justify-content: end;
+    margin-left: 1px;
+    
+    padding: 0%;
+}
+
+.enlace a {
+    color: black;
+}
